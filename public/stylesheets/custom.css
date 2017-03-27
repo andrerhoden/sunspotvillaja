@@ -1,0 +1,107 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : Jun 26, 2016, 5:31:36 PM
+    Author     : shane.rhoden
+*/
+
+.overlay{
+    background:rgba(0,0,0,0.4);
+}
+
+.mobileOnly{display: none;}
+
+#mobileBg.active{
+  background-position: 10% 10%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('../images/villaPic02.png');
+}
+
+.sub-nav dt a, .sub-nav dd a, .sub-nav li a {
+    padding: 0.1875rem 1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #6f6f6f;
+}
+
+.accordion .accordion-navigation > .content.active, .accordion dd > .content.active {
+    background: none;
+    display: block;
+    border: solid 2px;
+    height:auto;
+}
+
+.accordion .accordion-navigation > .content, .accordion dd > .content {
+    display: none;
+    height:0px;
+    padding: 0.9375rem;
+    transition: all 0.5s ease;
+}
+
+#owl .item{
+position: relative;
+display: block;
+width: 100%;
+z-index:10;
+padding:10px;
+max-height: 180px;
+}
+
+.accordion .accordion-navigation > a, .accordion dd > a {
+    background: rgba(239, 239, 239, 0.62);
+    color: #222222;
+    display: block;
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-size: 1rem;
+    padding: 1rem;
+    border-bottom: solid thin grey;
+}
+
+/*#owl .item img{
+    border:solid thin #fff;
+}*/
+
+#BookNow{
+    color:#fff;
+}
+
+.navLink .active {
+    color:#e37f1d;
+    text-decoration: underline;
+}
+
+
+.navLink :hover{
+    color:#e37f1d;
+    text-decoration: underline;
+}
+
+#mobileMenu{
+    position: absolute;
+    top: -20px;
+    left: 45%;
+    background-color: orange;
+    padding: 5px 10px;
+    border: solid 2px #fff;
+}
+
+.priceTable {
+    width: 100%;
+    font-family: sans-serif;
+}
+
+.priceTable th{
+  background-color: #c47544;
+}
+
+.white{
+  color:#fff;
+}
+
+table tr.even, table tr.alt, table tr:nth-of-type(even) {
+    background: #f2e4d9;
+}

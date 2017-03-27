@@ -1,0 +1,74 @@
+var data = {"prices":[
+    {
+        "Season":"Summer 2016",
+        "Period":"Apr 16th 2016 - Nov 18th 2016",
+        "Nightly":"$860.00",
+        "Weekly":"$6000.00"
+    },
+    {
+        "Season":"Thanksgiving 2016",
+        "Period":"Nov 19th 2016 - Nov 27th 2016",
+        "Nightly":"$930.00",
+        "Weekly":"$6500.00"
+    },
+    {
+      "Season":"Fall 2016",
+      "Period":"Nov 28th 2017 - Dec 14th 2017",
+      "Nightly":"$860.00",
+      "Weekly":"$6000.00"
+    },
+    {
+      "Season":"Winter 2016",
+      "Period":"Dec 15th 2016 - Dec 17th 2016",
+      "Nightly":"$1100.00",
+      "Weekly":"$7350.00"
+    },
+    {
+      "Season":"Christmas 2016",
+      "Period":"Dec 18th 2016 - Dec 27th 2016",
+      "Nightly":"$1300.00",
+      "Weekly":"$9000.00"
+    },
+    {
+      "Season":"New Year 2017",
+      "Period":"Dec 28th 2016 - Jan 4th 2017",
+      "Nightly":"$1400.00",
+      "Weekly":"$9700.00"
+    },
+    {
+      "Season":"Spring 2017",
+      "Period":"Jan 5th 2017 - Apr 14th 2017",
+      "Nightly":"$1100.00",
+      "Weekly":"$7350.00"
+    },
+    {
+      "Season":"Summer 2017",
+      "Period":"Apr 15th 2017 - Nov 17th 2017",
+      "Nightly":"$860.00",
+      "Weekly":"$6000.00"
+    },
+    {
+      "Season":"Thanksgiving 2017",
+      "Period":"Nov 18th 2017 - Nov 27th 2017",
+      "Nightly":"$930.00",
+      "Weekly":"$6500.00"
+    },
+    {
+      "Season":"Fall 2017",
+      "Period":"Nov 28th 2017 - Dec 14th 2017",
+      "Nightly":"$860.00",
+      "Weekly":"$6000.00"
+    },
+    {
+      "Season":"Winter 2017",
+      "Period":"Dec 15th 2017 - Dec 17th 2017",
+      "Nightly":"$1100.00",
+      "Weekly":"$7350.00"
+    },
+    {
+      "Season":"Christmas 2017",
+      "Period":"Dec 18th 2017 - Dec 27th 2017",
+      "Nightly":"$1300.00",
+      "Weekly":"$9000.00"
+    }
+]}

@@ -1,0 +1,9 @@
+[19-Aug-2016 16:21:38 UTC] PHP Notice:  Undefined index: error in /home/sunspotvillaja/public_html/examples/web/assets/webservices/submitLead.php on line 88
+[19-Aug-2016 16:24:23 UTC] PHP Notice:  Undefined index: error in /home/sunspotvillaja/public_html/examples/web/assets/webservices/submitLead.php on line 89
+[16-Sep-2016 09:08:52 UTC] PHP Notice:  Undefined variable: captcha in /home/sunspotvillaja/public_html/examples/web/assets/webservices/submitLead.php on line 18
+[01-Oct-2016 04:14:27 UTC] PHP Notice:  Undefined variable: captcha in /home/sunspotvillaja/public_html/examples/web/assets/webservices/submitLead.php on line 18
+[07-Oct-2016 03:15:02 UTC] PHP Notice:  Undefined index: error in /home/sunspotvillaja/public_html/examples/web/assets/webservices/submitLead.php on line 89
+[09-Oct-2016 00:52:30 UTC] PHP Notice:  Undefined index: error in /home/sunspotvillaja/public_html/examples/web/assets/webservices/submitLead.php on line 89
+[14-Oct-2016 07:03:36 Europe/Berlin] PHP Warning:  include(/home/sunspotvillaja/public_html/examples/web/assets/nusoap/nusoap.php): failed to open stream: No such file or directory in /Users/arhoden/Documents/UpShoot/htdocs/sunspot_villa/production/examples/web/assets/webservices/submitLead.php on line 50
+[14-Oct-2016 07:03:36 Europe/Berlin] PHP Warning:  include(): Failed opening '/home/sunspotvillaja/public_html/examples/web/assets/nusoap/nusoap.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php5.6.2/lib/php') in /Users/arhoden/Documents/UpShoot/htdocs/sunspot_villa/production/examples/web/assets/webservices/submitLead.php on line 50
+[14-Oct-2016 07:03:36 Europe/Berlin] PHP Fatal error:  Class 'nusoap_client' not found in /Users/arhoden/Documents/UpShoot/htdocs/sunspot_villa/production/examples/web/assets/webservices/submitLead.php on line 52
